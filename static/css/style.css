@@ -4,6 +4,7 @@
 *  Author: TemplateMag.com
 *  License: https://templatemag.com/license/
 */
+{% load static %}
 
 body {
   background-color: #f2f2f2;
