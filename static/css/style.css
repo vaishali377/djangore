@@ -4,7 +4,7 @@
 *  Author: TemplateMag.com
 *  License: https://templatemag.com/license/
 */
-{% load static %}
+
 
 body {
   background-color: #f2f2f2;
@@ -157,7 +157,7 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url({% static 'img/IMG_20191127_101433(4).jpg' %}) no-repeat center top;
+  background: url(../img/IMG_20191127_101433(4).jpg) no-repeat center top;
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
